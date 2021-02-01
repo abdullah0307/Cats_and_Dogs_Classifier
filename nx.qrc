@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="images">
+    <file>gcs logo.png</file>
+  </qresource>
+</RCC>
